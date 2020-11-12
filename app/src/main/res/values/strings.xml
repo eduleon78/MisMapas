@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MisMapas</string>
+    <string name="tv_titulo">DESTINOS TURISTICOS</string>
+    <string name="tv_uno">Sambil Mall</string>
+    <string name="tv_dos">La Vela Mall</string>
+    <string name="tv_tres">Playa el Agua</string>
+    <string name="tv_cuatro">Iglesia El Valle</string>
+    <string name="mis_mapas">Google Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="text_view_dos">Powered By E.A.L.S</string>
+</resources>
